@@ -5,5 +5,5 @@
   <h3 align="center">
   <a href="https://github.com/linus-skola/Parking-System/releases/latest">Download latest release</a>
   </h3>
-  <img src="" width="1000">
+  <img src="https://github.com/linus-skola/Parking-System/blob/master/screenshots/screenshot1.PNG" width="1000">
 </p>

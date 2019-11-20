@@ -32,6 +32,12 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>car-parking-system-1657040-1407041.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -52,6 +58,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="car-parking-system-1657040-1407041.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -16,7 +16,7 @@ namespace PragueParking2_Komplettering
             Console.ForegroundColor = ConsoleColor.White;
             Console.Title = "Prague Parking System";
 
-            parkingL.IniArray("database.csv");
+            parkingL.IniArray("/db/database.csv");
 
             while (true)
             {
